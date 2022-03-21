@@ -15,11 +15,11 @@ class Config(object):
     # REQUIRED
     #Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 1234567  # integer value, dont use ""
-    API_HASH = ""
-    TOKEN = ""  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1491497760  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "ctzfamily"
+    API_ID = 10373561  # integer value, dont use ""
+    API_HASH = "0da72656758a630fe896381473d1a951"
+    TOKEN = "2135663269:AAGhbonVuYjY3H6BCl9H5PKLRvRJOyDVUMA"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = 1663030868  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "earl_ragner_lothbrok"
     SUPPORT_CHAT = 'UnitedSupport'  #Your own group for support, do not add the @
     UPDATES_CHANNEL = 'ZeusUpdates' #Your own channel for Updates of bot, Do not add @
     JOIN_LOGGER = -1001574034400  #Prints any new group the bot is added to, prints just the name and ID.
